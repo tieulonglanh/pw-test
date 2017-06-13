@@ -1,0 +1,243 @@
+
+2017-06-14 00:31:04 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 00:31:04 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0}}
+2017-06-14 00:31:12 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 00:31:12 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0}}
+2017-06-14 00:32:50 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 00:32:50 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0}}
+2017-06-14 00:32:50 topUp - User  top-up wallet accounts usd amount: 10, new balance: 10
+2017-06-14 00:32:56 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 00:32:56 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0}}
+2017-06-14 00:32:56 topUp - User  top-up wallet accounts usd amount: 10, new balance: 10
+2017-06-14 00:33:53 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 00:33:53 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0}}
+2017-06-14 00:33:53 topUp - User  top-up wallet accounts usd amount: 10, new balance: 10
+2017-06-14 00:33:53 topUp - User  top-up wallet accounts usd amount: 30, new balance: 40
+2017-06-14 00:33:53 topUp - User  top-up wallet accounts usd amount: 40, new balance: 80
+2017-06-14 00:33:53 topUp - User  top-up wallet accounts usd amount: 10, new balance: 90
+2017-06-14 00:34:29 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 00:34:29 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0}}
+2017-06-14 00:34:29 topUp - User  top-up wallet accounts usd amount: 10, new balance: 10
+2017-06-14 00:34:29 topUp - User  top-up wallet accounts usd amount: 30, new balance: 40
+2017-06-14 00:34:29 topUp - User  top-up wallet accounts usd amount: 40, new balance: 80
+2017-06-14 00:34:29 topUp - User  top-up wallet accounts usd amount: 10, new balance: 90
+2017-06-14 00:34:29 topUp - User  top-up wallet accounts usd amount: 20, error: {"error":8,"message":"Top-up amount is greater than top-up limit"}
+2017-06-14 00:47:10 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 00:47:10 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0}}
+2017-06-14 00:47:10 topUp - User  top-up wallet accounts usd amount: 10, new balance: 10
+2017-06-14 00:47:10 topUp - User  top-up wallet accounts usd amount: 30, new balance: 40
+2017-06-14 00:47:10 topUp - User  top-up wallet accounts usd amount: 40, new balance: 80
+2017-06-14 00:47:10 topUp - User  top-up wallet accounts usd amount: 10, new balance: 90
+2017-06-14 00:47:10 topUp - User  top-up wallet accounts usd amount: 20, error: {"error":8,"message":"Top-up amount is greater than top-up limit"}
+2017-06-14 00:47:10 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 00:47:50 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 00:47:50 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0}}
+2017-06-14 00:47:50 topUp - User  top-up wallet accounts usd amount: 10, new balance: 10
+2017-06-14 00:47:50 topUp - User  top-up wallet accounts usd amount: 30, new balance: 40
+2017-06-14 00:47:50 topUp - User  top-up wallet accounts usd amount: 40, new balance: 80
+2017-06-14 00:47:50 topUp - User  top-up wallet accounts usd amount: 10, new balance: 90
+2017-06-14 00:47:50 topUp - User  top-up wallet accounts usd amount: 20, error: {"error":8,"message":"Top-up amount is greater than top-up limit"}
+2017-06-14 00:47:50 getWalletAccountBalance - User  get wallet accounts usd balance: 70
+2017-06-14 00:47:50 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 01:01:47 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 01:01:47 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0}}
+2017-06-14 01:01:47 topUp - User  top-up wallet accounts usd amount: 10, new balance: 10
+2017-06-14 01:01:47 topUp - User  top-up wallet accounts usd amount: 30, new balance: 40
+2017-06-14 01:01:47 topUp - User  top-up wallet accounts usd amount: 40, new balance: 80
+2017-06-14 01:01:47 topUp - User  top-up wallet accounts usd amount: 10, new balance: 90
+2017-06-14 01:01:47 topUp - User  top-up wallet accounts usd amount: 20, error: {"error":8,"message":"Top-up amount is greater than top-up limit"}
+2017-06-14 01:01:47 Transfer - User  from: usd, amount: 20 to credit, transfer rate: 1.
+2017-06-14 01:01:47 getWalletAccountBalance - User  get wallet accounts usd balance: 70
+2017-06-14 01:01:47 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 01:07:45 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 01:07:45 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0}}
+2017-06-14 01:07:45 topUp - User  top-up wallet accounts usd amount: 10, new balance: 10
+2017-06-14 01:07:45 topUp - User  top-up wallet accounts usd amount: 30, new balance: 40
+2017-06-14 01:07:45 topUp - User  top-up wallet accounts usd amount: 40, new balance: 80
+2017-06-14 01:07:45 topUp - User  top-up wallet accounts usd amount: 10, new balance: 90
+2017-06-14 01:07:45 topUp - User  top-up wallet accounts usd amount: 20, error: {"error":8,"message":"Top-up amount is greater than top-up limit"}
+2017-06-14 01:07:45 Transfer - User  from: usd, amount: 20, to credit, transfer rate: 1.
+2017-06-14 01:07:45 getWalletAccountBalance - User  get wallet accounts usd balance: 70
+2017-06-14 01:07:45 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 01:07:45 createWalletAccount - User  create wallet account eur: {"error":0,"message":"Success"}
+2017-06-14 01:07:45 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":20},"usd":{"id":"usd","name":"USD","currency":"USD","balance":70},"eur":{"id":"eur","name":"EURO","currency":"EUR","balance":0}}
+2017-06-14 01:09:15 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 01:09:15 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0}}
+2017-06-14 01:09:15 topUp - User  top-up wallet accounts usd amount: 10, new balance: 10
+2017-06-14 01:09:15 topUp - User  top-up wallet accounts usd amount: 30, new balance: 40
+2017-06-14 01:09:15 topUp - User  top-up wallet accounts usd amount: 40, new balance: 80
+2017-06-14 01:09:15 topUp - User  top-up wallet accounts usd amount: 10, new balance: 90
+2017-06-14 01:09:15 topUp - User  top-up wallet accounts usd amount: 20, error: {"error":8,"message":"Top-up amount is greater than top-up limit"}
+2017-06-14 01:09:15 Transfer - User  from: usd, amount: 20, to credit, transfer rate: 1.
+2017-06-14 01:09:15 getWalletAccountBalance - User  get wallet accounts usd balance: 70
+2017-06-14 01:09:15 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 01:09:15 createWalletAccount - User  create wallet account eur: {"error":0,"message":"Success"}
+2017-06-14 01:09:15 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":20},"usd":{"id":"usd","name":"USD","currency":"USD","balance":70},"eur":{"id":"eur","name":"EURO","currency":"EUR","balance":0}}
+2017-06-14 01:09:15 Transfer - User  from: usd, amount: 40, to eur, transfer rate: 0.893387592.
+2017-06-14 01:10:28 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 01:10:28 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0}}
+2017-06-14 01:10:28 topUp - User  top-up wallet accounts usd amount: 10, new balance: 10
+2017-06-14 01:10:28 topUp - User  top-up wallet accounts usd amount: 30, new balance: 40
+2017-06-14 01:10:28 topUp - User  top-up wallet accounts usd amount: 40, new balance: 80
+2017-06-14 01:10:28 topUp - User  top-up wallet accounts usd amount: 10, new balance: 90
+2017-06-14 01:10:28 topUp - User  top-up wallet accounts usd amount: 20, error: {"error":8,"message":"Top-up amount is greater than top-up limit"}
+2017-06-14 01:10:28 Transfer - User  from: usd, amount: 20, to credit, transfer rate: 1.
+2017-06-14 01:10:28 getWalletAccountBalance - User  get wallet accounts usd balance: 70
+2017-06-14 01:10:28 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 01:10:28 createWalletAccount - User  create wallet account eur: {"error":0,"message":"Success"}
+2017-06-14 01:10:28 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":20},"usd":{"id":"usd","name":"USD","currency":"USD","balance":70},"eur":{"id":"eur","name":"EURO","currency":"EUR","balance":0}}
+2017-06-14 01:10:28 Transfer - User  from: usd, amount: 40, to eur, transfer rate: 0.893387592.
+2017-06-14 01:10:28 getWalletAccountBalance - User  get wallet accounts usd balance: 30
+2017-06-14 01:10:28 getWalletAccountBalance - User  get wallet accounts eur balance: 35.73550368
+2017-06-14 01:11:08 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 01:11:08 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0}}
+2017-06-14 01:11:08 topUp - User  top-up wallet accounts usd amount: 10, new balance: 10
+2017-06-14 01:11:08 topUp - User  top-up wallet accounts usd amount: 30, new balance: 40
+2017-06-14 01:11:08 topUp - User  top-up wallet accounts usd amount: 40, new balance: 80
+2017-06-14 01:11:08 topUp - User  top-up wallet accounts usd amount: 10, new balance: 90
+2017-06-14 01:11:08 topUp - User  top-up wallet accounts usd amount: 20, error: {"error":8,"message":"Top-up amount is greater than top-up limit"}
+2017-06-14 01:11:08 Transfer - User  from: usd, amount: 20, to credit, transfer rate: 1.
+2017-06-14 01:11:08 getWalletAccountBalance - User  get wallet accounts usd balance: 70
+2017-06-14 01:11:08 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 01:11:08 createWalletAccount - User  create wallet account eur: {"error":0,"message":"Success"}
+2017-06-14 01:11:08 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":20},"usd":{"id":"usd","name":"USD","currency":"USD","balance":70},"eur":{"id":"eur","name":"EURO","currency":"EUR","balance":0}}
+2017-06-14 01:11:08 Transfer - User  from: usd, amount: 40, to eur, transfer rate: 0.893387592.
+2017-06-14 01:11:08 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 01:11:08 getWalletAccountBalance - User  get wallet accounts usd balance: 30
+2017-06-14 01:11:08 getWalletAccountBalance - User  get wallet accounts eur balance: 35.73550368
+2017-06-14 01:28:17 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 01:28:17 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0}}
+2017-06-14 01:28:17 topUp - User  top-up wallet accounts usd amount: 10, new balance: 10
+2017-06-14 01:28:17 topUp - User  top-up wallet accounts usd amount: 30, new balance: 40
+2017-06-14 01:28:17 topUp - User  top-up wallet accounts usd amount: 40, new balance: 80
+2017-06-14 01:28:17 topUp - User  top-up wallet accounts usd amount: 10, new balance: 90
+2017-06-14 01:28:17 topUp - User  top-up wallet accounts usd amount: 20, error: {"error":8,"message":"Top-up amount is greater than top-up limit"}
+2017-06-14 01:28:17 Transfer - User  from: usd, amount: 20, to credit, transfer rate: 1.
+2017-06-14 01:28:17 getWalletAccountBalance - User  get wallet accounts usd balance: 70
+2017-06-14 01:28:17 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 01:28:17 createWalletAccount - User  create wallet account eur: {"error":0,"message":"Success"}
+2017-06-14 01:28:17 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":20},"usd":{"id":"usd","name":"USD","currency":"USD","balance":70},"eur":{"id":"eur","name":"EURO","currency":"EUR","balance":0}}
+2017-06-14 01:28:17 Transfer - User  from: usd, amount: 40, to eur, transfer rate: 0.893387592.
+2017-06-14 01:28:17 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 01:28:17 getWalletAccountBalance - User  get wallet accounts usd balance: 30
+2017-06-14 01:28:17 getWalletAccountBalance - User  get wallet accounts eur balance: 35.73550368
+2017-06-14 01:28:17 Withdraw - User  from: eur, amount: 20
+2017-06-14 01:28:17 getWalletAccountBalance - User  get wallet accounts eur balance: 15.73550368
+2017-06-14 01:29:37 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 01:29:37 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0}}
+2017-06-14 01:29:37 topUp - User  top-up wallet accounts usd amount: 10, error: {"error":1,"message":"Account is freezed"}
+2017-06-14 01:29:37 topUp - User  top-up wallet accounts usd amount: 30, error: {"error":1,"message":"Account is freezed"}
+2017-06-14 01:29:37 topUp - User  top-up wallet accounts usd amount: 40, error: {"error":1,"message":"Account is freezed"}
+2017-06-14 01:29:37 topUp - User  top-up wallet accounts usd amount: 10, error: {"error":1,"message":"Account is freezed"}
+2017-06-14 01:29:37 topUp - User  top-up wallet accounts usd amount: 20, error: {"error":1,"message":"Account is freezed"}
+2017-06-14 01:29:37 Transfer - User  from: usd, amount: 20, to credit, transfer rate: 1. Error: {"error":12,"message":"Transfer from account is freezed"}
+2017-06-14 01:29:37 getWalletAccountBalance - User  get wallet accounts usd balance: 0
+2017-06-14 01:29:37 getWalletAccountBalance - User  get wallet accounts credit balance: 0
+2017-06-14 01:29:37 createWalletAccount - User  create wallet account eur: {"error":0,"message":"Success"}
+2017-06-14 01:29:37 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0},"eur":{"id":"eur","name":"EURO","currency":"EUR","balance":0}}
+2017-06-14 01:29:37 Transfer - User  from: usd, amount: 40, to eur, transfer rate: 0.893387592. Error: {"error":12,"message":"Transfer from account is freezed"}
+2017-06-14 01:29:37 getWalletAccountBalance - User  get wallet accounts credit balance: 0
+2017-06-14 01:29:37 getWalletAccountBalance - User  get wallet accounts usd balance: 0
+2017-06-14 01:29:37 getWalletAccountBalance - User  get wallet accounts eur balance: 0
+2017-06-14 01:29:37 Withdraw - User  from: eur, amount: 20 Error: {"error":1,"message":"Account is freezed"}
+2017-06-14 01:29:37 getWalletAccountBalance - User  get wallet accounts eur balance: 0
+2017-06-14 01:29:56 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 01:29:56 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0}}
+2017-06-14 01:29:56 topUp - User  top-up wallet accounts usd amount: 10, new balance: 10
+2017-06-14 01:29:56 topUp - User  top-up wallet accounts usd amount: 30, new balance: 40
+2017-06-14 01:29:56 topUp - User  top-up wallet accounts usd amount: 40, new balance: 80
+2017-06-14 01:29:56 topUp - User  top-up wallet accounts usd amount: 10, new balance: 90
+2017-06-14 01:29:56 topUp - User  top-up wallet accounts usd amount: 20, error: {"error":8,"message":"Top-up amount is greater than top-up limit"}
+2017-06-14 01:29:56 Transfer - User  from: usd, amount: 20, to credit, transfer rate: 1.
+2017-06-14 01:29:56 getWalletAccountBalance - User  get wallet accounts usd balance: 70
+2017-06-14 01:29:56 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 01:29:56 createWalletAccount - User  create wallet account eur: {"error":0,"message":"Success"}
+2017-06-14 01:29:56 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":20},"usd":{"id":"usd","name":"USD","currency":"USD","balance":70},"eur":{"id":"eur","name":"EURO","currency":"EUR","balance":0}}
+2017-06-14 01:29:56 Transfer - User  from: usd, amount: 40, to eur, transfer rate: 0.893387592.
+2017-06-14 01:29:56 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 01:29:56 getWalletAccountBalance - User  get wallet accounts usd balance: 30
+2017-06-14 01:29:56 getWalletAccountBalance - User  get wallet accounts eur balance: 35.73550368
+2017-06-14 01:29:56 Withdraw - User  from: eur, amount: 20
+2017-06-14 01:29:56 getWalletAccountBalance - User  get wallet accounts eur balance: 15.73550368
+2017-06-14 01:31:04 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 01:31:04 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0}}
+2017-06-14 01:31:04 topUp - User  top-up wallet accounts usd amount: 10, new balance: 10
+2017-06-14 01:31:04 topUp - User  top-up wallet accounts usd amount: 30, new balance: 40
+2017-06-14 01:31:04 topUp - User  top-up wallet accounts usd amount: 40, new balance: 80
+2017-06-14 01:31:04 topUp - User  top-up wallet accounts usd amount: 10, new balance: 90
+2017-06-14 01:31:04 topUp - User  top-up wallet accounts usd amount: 20, error: {"error":8,"message":"Top-up amount is greater than top-up limit"}
+2017-06-14 01:31:04 Transfer - User  from: usd, amount: 20, to credit, transfer rate: 1.
+2017-06-14 01:31:04 getWalletAccountBalance - User  get wallet accounts usd balance: 70
+2017-06-14 01:31:04 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 01:31:04 createWalletAccount - User  create wallet account eur: {"error":0,"message":"Success"}
+2017-06-14 01:31:04 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":20},"usd":{"id":"usd","name":"USD","currency":"USD","balance":70},"eur":{"id":"eur","name":"EURO","currency":"EUR","balance":0}}
+2017-06-14 01:31:04 Transfer - User  from: usd, amount: 40, to eur, transfer rate: 0.893387592.
+2017-06-14 01:31:04 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 01:31:04 getWalletAccountBalance - User  get wallet accounts usd balance: 30
+2017-06-14 01:31:04 getWalletAccountBalance - User  get wallet accounts eur balance: 35.73550368
+2017-06-14 01:31:04 Withdraw - User  from: eur, amount: 20
+2017-06-14 01:31:04 getWalletAccountBalance - User  get wallet accounts eur balance: 15.73550368
+2017-06-14 01:31:04 setFreezedAccount - User  set freezed account eur:{"error":0,"message":"Success"}
+2017-06-14 01:31:04 Withdraw - User  from: eur, amount: 10
+2017-06-14 01:31:04 getWalletAccountBalance - User  get wallet accounts eur balance: 5.73550368
+2017-06-14 01:33:05 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 01:33:05 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0}}
+2017-06-14 01:33:05 topUp - User  top-up wallet accounts usd amount: 10, new balance: 10
+2017-06-14 01:33:05 topUp - User  top-up wallet accounts usd amount: 30, new balance: 40
+2017-06-14 01:33:05 topUp - User  top-up wallet accounts usd amount: 40, new balance: 80
+2017-06-14 01:33:05 topUp - User  top-up wallet accounts usd amount: 10, new balance: 90
+2017-06-14 01:33:05 topUp - User  top-up wallet accounts usd amount: 20, error: {"error":8,"message":"Top-up amount is greater than top-up limit"}
+2017-06-14 01:33:05 Transfer - User  from: usd, amount: 20, to credit, transfer rate: 1.
+2017-06-14 01:33:05 getWalletAccountBalance - User  get wallet accounts usd balance: 70
+2017-06-14 01:33:05 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 01:33:05 createWalletAccount - User  create wallet account eur: {"error":0,"message":"Success"}
+2017-06-14 01:33:05 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":20},"usd":{"id":"usd","name":"USD","currency":"USD","balance":70},"eur":{"id":"eur","name":"EURO","currency":"EUR","balance":0}}
+2017-06-14 01:33:05 Transfer - User  from: usd, amount: 40, to eur, transfer rate: 0.893387592.
+2017-06-14 01:33:05 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 01:33:05 getWalletAccountBalance - User  get wallet accounts usd balance: 30
+2017-06-14 01:33:05 getWalletAccountBalance - User  get wallet accounts eur balance: 35.73550368
+2017-06-14 01:33:05 Withdraw - User  from: eur, amount: 20
+2017-06-14 01:33:05 getWalletAccountBalance - User  get wallet accounts eur balance: 15.73550368
+2017-06-14 01:33:05 setFreezedAccount - User  set freezed account eur:{"error":0,"message":"Success"}
+2017-06-14 01:34:12 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 01:34:12 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0}}
+2017-06-14 01:34:12 topUp - User  top-up wallet accounts usd amount: 10, new balance: 10
+2017-06-14 01:34:12 topUp - User  top-up wallet accounts usd amount: 30, new balance: 40
+2017-06-14 01:34:12 topUp - User  top-up wallet accounts usd amount: 40, new balance: 80
+2017-06-14 01:34:12 topUp - User  top-up wallet accounts usd amount: 10, new balance: 90
+2017-06-14 01:34:12 topUp - User  top-up wallet accounts usd amount: 20, error: {"error":8,"message":"Top-up amount is greater than top-up limit"}
+2017-06-14 01:34:12 Transfer - User  from: usd, amount: 20, to credit, transfer rate: 1.
+2017-06-14 01:34:12 getWalletAccountBalance - User  get wallet accounts usd balance: 70
+2017-06-14 01:34:12 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 01:34:12 createWalletAccount - User  create wallet account eur: {"error":0,"message":"Success"}
+2017-06-14 01:34:12 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":20},"usd":{"id":"usd","name":"USD","currency":"USD","balance":70},"eur":{"id":"eur","name":"EURO","currency":"EUR","balance":0}}
+2017-06-14 01:34:12 Transfer - User  from: usd, amount: 40, to eur, transfer rate: 0.893387592.
+2017-06-14 01:34:12 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 01:34:12 getWalletAccountBalance - User  get wallet accounts usd balance: 30
+2017-06-14 01:34:12 getWalletAccountBalance - User  get wallet accounts eur balance: 35.73550368
+2017-06-14 01:34:12 Withdraw - User  from: eur, amount: 20
+2017-06-14 01:34:12 getWalletAccountBalance - User  get wallet accounts eur balance: 15.73550368
+2017-06-14 01:34:12 setFreezedAccount - User  set freezed account eur:{"error":0,"message":"Success"}
+2017-06-14 01:34:12 Withdraw - User  from: eur, amount: 10 Error: {"error":1,"message":"Account is freezed"}
+2017-06-14 01:34:12 getWalletAccountBalance - User  get wallet accounts eur balance: 15.73550368
+2017-06-14 01:53:34 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 01:53:34 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0,"usd_rate":1},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0,"usd_rate":1}}
+2017-06-14 01:53:34 topUp - User  top-up wallet accounts usd amount: 10, new balance: 10
+2017-06-14 01:53:34 topUp - User  top-up wallet accounts usd amount: 30, new balance: 40
+2017-06-14 01:53:34 topUp - User  top-up wallet accounts usd amount: 40, new balance: 80
+2017-06-14 01:53:34 topUp - User  top-up wallet accounts usd amount: 10, new balance: 90
+2017-06-14 01:53:34 topUp - User  top-up wallet accounts usd amount: 20, error: {"error":8,"message":"Top-up amount is greater than top-up limit"}
+2017-06-14 01:53:34 Transfer - User  from: usd, amount: 20, to credit, transfer rate: 1.
+2017-06-14 01:53:34 getWalletAccountBalance - User  get wallet accounts usd balance: 70
+2017-06-14 01:53:34 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 01:53:34 createWalletAccount - User  create wallet account eur: {"error":0,"message":"Success"}
+2017-06-14 01:53:34 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":20,"usd_rate":1},"usd":{"id":"usd","name":"USD","currency":"USD","balance":70,"usd_rate":1},"eur":{"id":"eur","name":"EURO","currency":"EUR","balance":0,"usd_rate":0.893387592}}
+2017-06-14 01:53:34 Transfer - User  from: usd, amount: 40, to eur, transfer rate: 0.893387592.
+2017-06-14 01:53:34 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 01:53:34 getWalletAccountBalance - User  get wallet accounts usd balance: 30
+2017-06-14 01:53:34 getWalletAccountBalance - User  get wallet accounts eur balance: 35.73550368
+2017-06-14 01:53:34 Withdraw - User  from: eur, amount: 20
+2017-06-14 01:53:34 getWalletAccountBalance - User  get wallet accounts eur balance: 15.73550368
+2017-06-14 01:53:34 setFreezedAccount - User  set freezed account eur:{"error":0,"message":"Success"}
+2017-06-14 01:53:34 Withdraw - User  from: eur, amount: 10 Error: {"error":1,"message":"Account is freezed"}
+2017-06-14 01:53:34 getWalletAccountBalance - User  get wallet accounts eur balance: 15.73550368
