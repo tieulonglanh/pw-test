@@ -241,3 +241,24 @@
 2017-06-14 01:53:34 setFreezedAccount - User  set freezed account eur:{"error":0,"message":"Success"}
 2017-06-14 01:53:34 Withdraw - User  from: eur, amount: 10 Error: {"error":1,"message":"Account is freezed"}
 2017-06-14 01:53:34 getWalletAccountBalance - User  get wallet accounts eur balance: 15.73550368
+2017-06-14 02:00:14 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 02:00:14 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0,"usd_rate":1},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0,"usd_rate":1}}
+2017-06-14 02:00:14 topUp - User  top-up wallet accounts usd amount: 10, new balance: 10
+2017-06-14 02:00:14 topUp - User  top-up wallet accounts usd amount: 30, new balance: 40
+2017-06-14 02:00:14 topUp - User  top-up wallet accounts usd amount: 40, new balance: 80
+2017-06-14 02:00:14 topUp - User  top-up wallet accounts usd amount: 10, new balance: 90
+2017-06-14 02:00:14 topUp - User  top-up wallet accounts usd amount: 20, error: {"error":8,"message":"Top-up amount is greater than top-up limit"}
+2017-06-14 02:00:14 Transfer - User  from: usd, amount: 20, to credit, transfer rate: 1.
+2017-06-14 02:00:14 getWalletAccountBalance - User  get wallet accounts usd balance: 70
+2017-06-14 02:00:14 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 02:00:14 createWalletAccount - User  create wallet account eur: {"error":0,"message":"Success"}
+2017-06-14 02:00:14 getListWalletAccounts - User  get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":20,"usd_rate":1},"usd":{"id":"usd","name":"USD","currency":"USD","balance":70,"usd_rate":1},"eur":{"id":"eur","name":"EURO","currency":"EUR","balance":0,"usd_rate":0.893387592}}
+2017-06-14 02:00:14 Transfer - User  from: usd, amount: 40, to eur, transfer rate: 0.893387592.
+2017-06-14 02:00:14 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 02:00:14 getWalletAccountBalance - User  get wallet accounts usd balance: 30
+2017-06-14 02:00:14 getWalletAccountBalance - User  get wallet accounts eur balance: 35.73550368
+2017-06-14 02:00:14 Withdraw - User  from: eur, amount: 20
+2017-06-14 02:00:14 getWalletAccountBalance - User  get wallet accounts eur balance: 15.73550368
+2017-06-14 02:00:14 setFreezedAccount - User  set freezed account eur:{"error":0,"message":"Success"}
+2017-06-14 02:00:14 Withdraw - User  from: credit, amount: 10 Error: {"error":2,"message":"Account is virtual"}
+2017-06-14 02:00:14 getWalletAccountBalance - User  get wallet accounts credit balance: 20

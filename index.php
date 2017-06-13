@@ -38,7 +38,7 @@ $walletAccount->withdraw('eur', 20);
 $walletAccount->getWalletAccountBalance('eur');
 
 $walletAccount->setFreezedAccount('eur');
-$walletAccount->withdraw('eur', 10);
-$walletAccount->getWalletAccountBalance('eur');
+$walletAccount->withdraw('credit', 10);
+$walletAccount->getWalletAccountBalance('credit');
 
 

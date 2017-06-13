@@ -191,7 +191,7 @@ class WalletAccount extends Object{
      * @return mix
      */
     public function getWalletAccount($id) {
-        $this->log("getWalletAccount - User {$this->user->id} get wallet accounts {$id}: " . json_encode($this->wallet_accounts[$id]));
+        $this->log("getWalletAccount - User {$this->user->id} get wallet account {$id}: " . json_encode($this->wallet_accounts[$id]));
         return $this->wallet_accounts[$id];
     }
     
@@ -202,7 +202,7 @@ class WalletAccount extends Object{
      * @return mix
      */
     public function getWalletAccountBalance($id) {
-        $this->log("getWalletAccountBalance - User {$this->user->id} get wallet accounts {$id} balance: " . $this->wallet_accounts[$id]['balance']);
+        $this->log("getWalletAccountBalance - User {$this->user->id} get wallet account {$id} balance: " . $this->wallet_accounts[$id]['balance']);
         return $this->wallet_accounts[$id]['balance'];
     }
     
