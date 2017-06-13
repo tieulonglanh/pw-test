@@ -329,6 +329,10 @@ class WalletAccount extends Object{
      * @return mix
      */
     public function isAllowWithdraw($id, $amount) {
+        $is_virtual_account = $this->isVirtualAccount($id);
+        if($is_virtual_account) {
+            return ['error' => 2, 'message' => $this->errors[2]];
+        }
         $is_exist_account = $this->isExistAccount($id);
         if(!$is_exist_account) {
             return ['error' => 5, 'message' => $this->errors[5]];
