@@ -262,3 +262,33 @@
 2017-06-14 02:00:14 setFreezedAccount - User  set freezed account eur:{"error":0,"message":"Success"}
 2017-06-14 02:00:14 Withdraw - User  from: credit, amount: 10 Error: {"error":2,"message":"Account is virtual"}
 2017-06-14 02:00:14 getWalletAccountBalance - User  get wallet accounts credit balance: 20
+2017-06-14 13:51:55 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 13:52:14 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 13:52:24 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 13:52:41 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 13:52:42 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 13:52:42 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 13:52:47 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 13:54:34 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 13:57:40 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 13:58:13 Init user - User info: {"id":"test_customer_12"}
+2017-06-14 13:58:13 getListWalletAccounts - User test_customer_12 get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0,"usd_rate":1},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0,"usd_rate":1}}
+2017-06-14 13:58:13 topUp - User test_customer_12 top-up wallet accounts usd amount: 10, error: {"error":6,"message":"User top-up limit is not set"}
+2017-06-14 13:58:13 topUp - User test_customer_12 top-up wallet accounts usd amount: 30, error: {"error":6,"message":"User top-up limit is not set"}
+2017-06-14 13:58:13 topUp - User test_customer_12 top-up wallet accounts usd amount: 40, error: {"error":6,"message":"User top-up limit is not set"}
+2017-06-14 13:58:13 topUp - User test_customer_12 top-up wallet accounts usd amount: 10, error: {"error":6,"message":"User top-up limit is not set"}
+2017-06-14 13:58:13 topUp - User test_customer_12 top-up wallet accounts usd amount: 20, error: {"error":6,"message":"User top-up limit is not set"}
+2017-06-14 13:58:13 Transfer - User test_customer_12 from: usd, amount: 20, to credit, transfer rate: 1. Error: {"error":11,"message":"Transfer amount is greater than balance"}
+2017-06-14 13:58:13 getWalletAccountBalance - User test_customer_12 get wallet account usd balance: 0
+2017-06-14 13:58:13 getWalletAccountBalance - User test_customer_12 get wallet account credit balance: 0
+2017-06-14 13:58:13 createWalletAccount - User test_customer_12 create wallet account eur: {"error":0,"message":"Success"}
+2017-06-14 13:58:13 getListWalletAccounts - User test_customer_12 get all wallet accounts: {"credit":{"id":"credit","name":"CREDIT","currency":"CREDIT","balance":0,"usd_rate":1},"usd":{"id":"usd","name":"USD","currency":"USD","balance":0,"usd_rate":1},"eur":{"id":"eur","name":"EURO","currency":"EUR","balance":0,"usd_rate":0.893387592}}
+2017-06-14 13:58:13 Transfer - User test_customer_12 from: usd, amount: 40, to eur, transfer rate: 0.893387592. Error: {"error":11,"message":"Transfer amount is greater than balance"}
+2017-06-14 13:58:13 getWalletAccountBalance - User test_customer_12 get wallet account credit balance: 0
+2017-06-14 13:58:13 getWalletAccountBalance - User test_customer_12 get wallet account usd balance: 0
+2017-06-14 13:58:13 getWalletAccountBalance - User test_customer_12 get wallet account eur balance: 0
+2017-06-14 13:58:13 Withdraw - User test_customer_12 from: eur, amount: 20 Error: {"error":14,"message":"User withdraw limit is not set"}
+2017-06-14 13:58:13 getWalletAccountBalance - User test_customer_12 get wallet account eur balance: 0
+2017-06-14 13:58:13 setFreezedAccount - User test_customer_12 set freezed account eur:{"error":0,"message":"Success"}
+2017-06-14 13:58:13 Withdraw - User test_customer_12 from: credit, amount: 10 Error: {"error":2,"message":"Account is virtual"}
+2017-06-14 13:58:13 getWalletAccountBalance - User test_customer_12 get wallet account credit balance: 0

@@ -25,13 +25,13 @@ class User extends Object{
     /*
      * Get value of an User's property
      */
-    public function _get($property) {
+    public function __get($property) {
         return isset($this->properties[$property]) ? $this->properties[$property] : false;
     }
     /*
      * Set value of an User's property
      */
-    public function _set($property, $value) {
+    public function __set($property, $value) {
         return ($this->properties[$property] = $value);
     }    
 }
